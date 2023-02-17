@@ -1,0 +1,88 @@
+* {¨
+   margin: 0px;
+   paddin: 0px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
+
+h2{
+    color: rgb(0, 38, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    background-color: yellow;
+}
+
+p{
+    color: rgb(32, 1, 104);
+    font-size: 25px;
+    line-height: 28px;
+}
+
+time{
+    color: rgb(140, 150, 201);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Destacado1{
+    font-weight: bold;
+}
+
+.Destacado2{
+    font-weight: bold;
+}
+
+body{
+    text-align: center;
+    display: block;
+}
+
+.Destacado3{
+    width: 980px;
+    margin: auto;
+    border: solid black;
+    }
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+	height: 20px;
+	display: inline-flex;
+	flex-wrap: wrap;
+	/*align-content: flex-start;*/
+	/*align-content: flex-end;*/
+	/*align-content: center;*/
+	/*align-content: stretch;*/
+	/*align-content: space-around;*/
+	/*align-content: space-between;*/
+    }
+
+    .seccion{
+        margin: 20px;
+        border: 1px solid;
+        background-color: rgb(194, 194, 194);
+    }
+
+    .seccion2{
+        margin: 20px;
+        border: 1px solid;
+        background-color: rgb(194, 194, 194);
+    }
+
+.destacado4{
+    border: solid black;
+    width: 980px;
+    margin: auto;
+    background-color: rgb(86, 86, 218);
+}
+
+img{
+    width: 150px;
+
+    
